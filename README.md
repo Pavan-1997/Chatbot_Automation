@@ -34,9 +34,11 @@ python3 TelegramBot.py
 npm install -g yo generator-hubot
 ```
 
-Step 7 - yo hubot 
-
-Add your values --> EMAIL ID / ADAPTER -> slack / Botname/desc - your bot name in salck 
+Step 7 - 
+```
+yo hubot 
+```
+`Add your values --> EMAIL ID / ADAPTER -> slack / Botname/desc - your bot name in slack` 
 
 Step 8 - Hit the below command to start your bot
 
