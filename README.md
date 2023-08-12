@@ -27,7 +27,7 @@ python3 TelegramBot.py
 
 ### Step 4 - Install Node in your laptop
 
-Step 5 - Execute the commands from slides 
+### Step 5 - Execute the commands from slides 
 
 Step 6 - npm install -g yo generator-hubot
 
