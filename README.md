@@ -34,7 +34,7 @@ python3 TelegramBot.py
 npm install -g yo generator-hubot
 ```
 
-Step 7 - 
+### Step 7 - 
 ```
 yo hubot 
 ```
