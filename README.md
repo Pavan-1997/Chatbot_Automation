@@ -29,7 +29,9 @@ python3 TelegramBot.py
 
 ### Step 5 - Execute the commands from slides 
 
-Step 6 - npm install -g yo generator-hubot
+### Step 6 - 
+
+npm install -g yo generator-hubot
 
 Step 7 - yo hubot 
 
