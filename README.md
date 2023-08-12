@@ -8,7 +8,10 @@ pip3 install python-telegram-bot
 pip3 install requests
 pip3 install telegram
 ```
-### Step 4 - `python3 TelegramBot.py`
+### Step 4 - 
+```
+python3 TelegramBot.py
+```
 
 Step 5 - Go to your bot in telegram and give the first command /hello
 
