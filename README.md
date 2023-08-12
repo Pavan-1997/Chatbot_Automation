@@ -13,8 +13,9 @@ pip3 install telegram
 python3 TelegramBot.py
 ```
 
-Step 5 - Go to your bot in telegram and give the first command /hello
+### Step 5 - Go to your bot in telegram and give the first command /hello
 
+---
 
 FOR SLACK BOT
 
