@@ -23,7 +23,7 @@ python3 TelegramBot.py
 
 ### Step 2 - Go to APPS in slack and search for HUBOT  [ Hubot is an app given by slack ]
 
-Step 3 - Give the name to bot and save the token
+### Step 3 - Give the name to bot and save the token
 
 Step 4 - Install node in your laptop
 
