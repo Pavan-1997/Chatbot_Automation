@@ -1,9 +1,8 @@
-FOR TELEGRAM BOT
+# FOR TELEGRAM BOT
 
-Step 1 - Clone this repository
-Step 2 - Replace the bot token in line number 10 and 14
-Step 3 - Install module of Python 
-
+### Step 1 - Clone this repository
+### Step 2 - Replace the bot token in line number 10 and 14
+### Step 3 - Install module of Python 
 
 pip3 install python-telegram-bot
 pip3 install requests
