@@ -19,7 +19,7 @@ python3 TelegramBot.py
 
 # FOR SLACK BOT
 
-Step 1- install Slack app
+### Step 1- install Slack app
 
 Step 2 - Go to APPS in slack and search for HUBOT  [ Hubot is an app given by slack ]
 
