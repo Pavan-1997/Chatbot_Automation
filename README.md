@@ -17,7 +17,7 @@ python3 TelegramBot.py
 
 ---
 
-FOR SLACK BOT
+# FOR SLACK BOT
 
 Step 1- install Slack app
 
