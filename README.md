@@ -25,7 +25,7 @@ python3 TelegramBot.py
 
 ### Step 3 - Give the name to bot and save the token
 
-Step 4 - Install node in your laptop
+### Step 4 - Install Node in your laptop
 
 Step 5 - Execute the commands from slides 
 
